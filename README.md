@@ -82,7 +82,7 @@ streamlit run app.py
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP4 | Store sales prediction app | [My Medium Article](https://medium.com/@peninarandu/store-sales-prediction-streamlit-app-46a94fdd0a8f)| [My app](https://huggingface.co/spaces/Pendo/Store_sales_prediction_app) |
+| LP4 | Store sales prediction app || [My app](https://deeeteeee01-sales-prediction-app.hf.space)) |
 
 ## Contributions
 Contributions and pull requests are welcome! If you would like to contribute to this project, please follow these steps:
@@ -95,6 +95,6 @@ Contributions and pull requests are welcome! If you would like to contribute to 
 
 Feel free to contribute to different aspects of the project, including improving the model, exploring additional features, or enhancing the EDA.
 ## Author 
-Penina Pendo.
+David Anifowoshe.
 
 
